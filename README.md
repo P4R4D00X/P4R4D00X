@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @P4R4D00X
-- 👀 I’m interested in learning various Programming languages...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on simple Python GUI Applications
+- 👀 I’m interested in learning various Programming languages ...
+- 🌱 I’m currently learning Python, C/C++
+- 💞️ I’m looking to collaborate on ...<!--simple Python GUI Applications-->
 - 📫 How to reach me ...
 
 <!---
